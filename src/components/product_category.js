@@ -7,7 +7,7 @@ class ProductCategory extends Component {
 
         return (
             <div className='product-category'>
-                <div className='site-width container'>
+                <div className='container'>
                     <h2>{title}</h2>
                     <hr />
 

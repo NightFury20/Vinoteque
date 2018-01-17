@@ -357,6 +357,11 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
+    cursor: pointer;
+}
+
+.banner-footer button:hover {
+    opacity: 0.8;
 }
 
 /* menu-footer */

@@ -13,18 +13,6 @@ const MenuTiny = () => {
                         </div>
 
                         <div className="collapse navbar-collapse" id="menu-tiny">
-                            {/*<nav className='nav col-sm'>
-                                <a className="nav-link active" href="#">Shop</a>
-                                <a className="nav-link" href="#">News</a>
-                                <a className="nav-link" href="#">Trade</a>
-                            </nav>
-                            <nav className='nav justify-content-end col-sm'>
-                                <a className="nav-link" href="#">Register</a>
-                                <a className="nav-link" href="#">Sign in</a>
-                                <a className="nav-link" href="#">Need help?</a>
-                            </nav>
-    */}
-
                             <ul className="navbar-nav">
                                 <div>
                                     <li className="nav-item active">
